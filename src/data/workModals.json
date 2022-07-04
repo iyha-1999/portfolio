@@ -195,6 +195,27 @@
                     "url": "https://github.com/iyha-1999/randomSeedMap"
                   }
             ]
+        },
+        {
+            "title":"ポートフォリオサイト",
+            "description":"当サイトです。今まで作った作品をまとめるために作成しました。React.jsを使用しました。",
+            "developmentEnvironmentDetail":"HTML,CSS,Javascript,React.js",
+            "thumbnails":[
+                "assets/png/worksModal/pf/0.png",
+                "assets/png/worksModal/pf/1.png"
+            ],
+            "links":[
+                {
+                    "title": " ポートフォリオ",
+                    "icon": "link",
+                    "url": "https://junnitta-pf.sakura.ne.jp/entry"
+                  },
+                  {
+                    "title": " gitHub",
+                    "icon": "gitHub",
+                    "url": "https://github.com/iyha-1999/portfolio"
+                  }
+            ]
         }
     ]
 }

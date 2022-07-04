@@ -22,6 +22,7 @@ const Top = () => {
     useModal(),
     useModal(),
     useModal(),
+    useModal(),
   ];
   //bodyのスクロールの状態を制御
   const stoppingBodyScroll = () => {
