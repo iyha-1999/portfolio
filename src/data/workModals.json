@@ -1,0 +1,200 @@
+{
+    "entry":[
+        {
+            "title":"広告クリエイティブ",
+            "description":"Banner Revolutionプロジェクトにて広告の動的クリエイティブバナーを作成しました。広告を表示する制約上、Jquery以外のライブラリを入れることが出来なかったため、ほぼピュアなjavascriptで実装しました。複雑な構成はejsを使用し、コンポーネント分けをしてコーディングしました。CSSTransition,javascriptに対する理解が深まりました。3年間で約200本のクリエイティブを作成しました。",
+            "developmentEnvironmentDetail":"HTML,CSS,Javascript,ejs(ビルド前)",
+            "thumbnails":[
+                "assets/png/worksModal/creativeList/0.png",
+                "assets/png/worksModal/creativeList/1.png",
+                "assets/png/worksModal/creativeList/2.png",
+                "assets/png/worksModal/creativeList/3.png",
+                "assets/png/worksModal/creativeList/4.png"
+            ],
+            "links":[
+                {
+                    "title": " Banner Revolution",
+                    "icon": "link",
+                    "url": "https://advancedcreativecenter.com/"
+                },
+                {
+                    "title": " Creative List(自分が作ったものの一部まとめ)",
+                    "icon": "link",
+                    "url": "https://junnitta-pf.sakura.ne.jp/contents/creativeList/"
+                },
+                {
+                    "title": " gitHub(Creative List)",
+                    "icon": "gitHub",
+                    "url": "https://github.com/iyha-1999/creative-list"
+                }
+            ]
+        },
+        {
+            "title":"webinar-room",
+            "description":"ウェビナーの動画サービス、webinar-roomの動画コンポーネント、ランキンページ、LPをメインに実装を行いました。動画部分はhls.jsでストリーミングに対応しました。",
+            "developmentEnvironmentDetail":"HTML(Pug),CSS(SASS),Javascript,Vue.js,Nuxt.js,hls.js,Docker",
+            "thumbnails":[
+                "assets/png/worksModal/webinar/0.png",
+                "assets/png/worksModal/webinar/1.png",
+                "assets/png/worksModal/webinar/2.png"
+            ],
+            "links":[
+                {
+                    "title": " webinar-room",
+                    "icon": "link",
+                    "url": "https://webinar-room.net/"
+                  },
+                  {
+                    "title": " webinar-room/lp",
+                    "icon": "link",
+                    "url": "https://webinar-room.net/lp"
+                  },
+                  {
+                    "title": " webinar-room/ranking",
+                    "icon": "link",
+                    "url": "https://webinar-room.net/ranking"
+                  }
+            ]
+        },
+        {
+            "title":"僕らの放課後戦争",
+            "description":"LP,UIのコーディング、Flashアニメーションの繋ぎ込み、バナー制作、イベントページのUIデザインを行いました。",
+            "developmentEnvironmentDetail":"HTML,CSS,Javascript,Create.js,Adobe Animate,Flash,Photoshop,Adobe XD,clip studio",
+            "thumbnails":[
+                "assets/png/worksModal/sgame/0.png",
+                "assets/png/worksModal/sgame/1.png",
+                "assets/png/worksModal/sgame/2.png"
+            ],
+            "links":[
+                {
+                    "title": " 僕らの放課後戦争",
+                    "icon": "link",
+                    "url": "https://games.dmm.com/detail/houkago/"
+                }
+            ]
+        },
+        {
+            "title":"対魔忍アサギ〜決戦アリーナ〜",
+            "description":"リリース後の運営からチームに参加し、UIデザイン、アイコン制作、コーディング、アニメーション制作、バナー作成を行いました。追加機能ではボスバトルガチャページのコーディング、ガチャ演出のFlash、更新画像のルーチンを作成しました。更新画像の効率化のため、PhotoShop Scriptにて、立ち絵、カード画像、フェイスアイコンの自動書き出しスクリプトを作成しました。他社引き継ぎ作業も行い、イベント更新フローの資料を作成しました。",
+            "developmentEnvironmentDetail":"HTML,CSS,Javascript,Create.js,Adobe Animate,Flash,Photoshop,clip studio,CakePHP",
+            "thumbnails":[
+                "assets/png/worksModal/asagi/0.png",
+                "assets/png/worksModal/asagi/1.png",
+                "assets/png/worksModal/asagi/2.png",
+                "assets/png/worksModal/asagi/3.png"
+            ],
+            "links":[
+                {
+                    "title": "",
+                    "icon": "",
+                    "url": ""
+                }
+            ]
+        },
+        {
+            "title":"ぜったい遵守☆ぱこぱこカーニバル",
+            "description":"企画〜リリース〜運営まで携わり、全ページのデザイン、view部分のコーディングを1人で行いました。 UIデザイン、アイコン作成、コーディング、アニメーション制作、バナー作成、イベント更新画像の作成を行いました。また、各セクションに共有するUI資料、工数の調整を行いました。",
+            "developmentEnvironmentDetail":"HTML,CSS,Javascript,Create.js,Adobe Animate,Flash,Photoshop,clip studio,FuelPHP",
+            "thumbnails":[
+                "assets/png/worksModal/kozu/0.png",
+                "assets/png/worksModal/kozu/1.png",
+                "assets/png/worksModal/kozu/2.png",
+                "assets/png/worksModal/kozu/3.png",
+                "assets/png/worksModal/kozu/4.png",
+                "assets/png/worksModal/kozu/5.png",
+                "assets/png/worksModal/kozu/6.png",
+                "assets/png/worksModal/kozu/7.png"
+            ],
+            "links":[
+                {
+                    "title": "",
+                    "icon": "",
+                    "url": ""
+                }
+            ]
+        },
+        {
+            "title":"スクールさーばんつ",
+            "description":"リリース直前〜運営まで携わり、在宅スタッフとして4人のチームでデザイン業務を行いました。UIデザイン、アイコン作成、コーディング、イベント更新画像の作成を行いました。在宅スタッフのリーダーとしてディレクション業務も行い、Redmineでのタスク作成と管理などを行いました。",
+            "developmentEnvironmentDetail":"HTML,CSS,Javascript,ejs(ビルド前)",
+            "thumbnails":[
+                "assets/png/worksModal/school/0.png",
+                "assets/png/worksModal/school/1.png",
+                "assets/png/worksModal/school/2.png",
+                "assets/png/worksModal/school/3.png",
+                "assets/png/worksModal/school/4.png"
+            ],
+            "links":[
+                {
+                    "title": "",
+                    "icon": "",
+                    "url": ""
+                }
+            ]
+        },
+        {
+            "title":"WEBGL研究開発",
+            "description":"BXDプラットフォームへの提案用にthree.js,WEBGLを使用し、3Dゲームの研究開発を行いました。コーディング、3Dの加工、素材収集などを一人で担当しました。マウスをドラッグすると追従してモデルが動きます。",
+            "developmentEnvironmentDetail":"HTML,CSS,Javascript,three.js,Blender,Photoshop",
+            "thumbnails":[
+                "assets/png/worksModal/three/0.png", "assets/png/worksModal/three/1.png"
+            ],
+            "links":[
+                {
+                    "title": " WebGLAnimation(PC用)",
+                    "icon": "link",
+                    "url": "http://junnitta-pf.sakura.ne.jp/contents/three/"
+                  },
+                  {
+                    "title": " gitHub",
+                    "icon": "gitHub",
+                    "url": "https://github.com/iyha-1999/webGLAnimation"
+                  }
+            ]
+        },
+        {
+            "title":"開発中2Dサンドボックスゲーム",
+            "description":"マインクラフトの2D風のゲームを開発しています。イラスト、背景、プログラム、音楽を全て一人で作っています。詳しい仕様はgithubに記載しています。",
+            "developmentEnvironmentDetail": "Unity,C#,UniRx,inputSystem,photoshop,clips tudio",
+            "thumbnails":[
+                "assets/png/worksModal/sandbox/0.png",
+                "assets/png/worksModal/sandbox/1.png",
+                "assets/png/worksModal/sandbox/2.png",
+                "assets/png/worksModal/sandbox/3.png"
+            ],
+            "links":[
+                {
+                    "title": " 開発中2Dサンドボックスゲーム",
+                    "icon": "link",
+                    "url": "https://junnitta-pf.sakura.ne.jp/contents/unity2DSandboxGame/"
+                  },
+                  {
+                    "title": " gitHub",
+                    "icon": "gitHub",
+                    "url": "https://github.com/iyha-1999/2dSandboxGame"
+                  }
+            ]
+        },
+        {
+            "title":"randomSeedMap",
+            "description":"React,Redux,Pixi.jsを組み合わせて、ゲームの開発環境を作るために始めたプロジェクトです。リロードするとマップがランダムに変更されます。詳細はgiuhubに記載しています。",
+            "developmentEnvironmentDetail":"HTML,CSS,Javascript,React.js,Redux,Pixi.js",
+            "thumbnails":[
+                "assets/png/worksModal/randomSheedMap/0.png",
+                "assets/png/worksModal/randomSheedMap/1.png"
+            ],
+            "links":[
+                {
+                    "title": " randomSeedMap",
+                    "icon": "link",
+                    "url": "https://junnitta-pf.sakura.ne.jp/contents/randomSeedMap/"
+                  },
+                  {
+                    "title": " gitHub",
+                    "icon": "gitHub",
+                    "url": "https://github.com/iyha-1999/randomSeedMap"
+                  }
+            ]
+        }
+    ]
+}
