@@ -2,43 +2,43 @@
     "entry":[
         {
             "title": "広告クリエイティブ",
-            "thumbnailImagePath": "assets/png/works/0.png"
+            "thumbnailImagePath": "assets/jpg/works/0.jpg"
           },
           {
             "title": "webinar-room",
-            "thumbnailImagePath": "assets/png/works/1.png"
+            "thumbnailImagePath": "assets/jpg/works/1.jpg"
           },
           {
             "title": "僕らの放課後戦争",
-            "thumbnailImagePath": "assets/png/works/2.png"
+            "thumbnailImagePath": "assets/jpg/works/2.jpg"
           },
           {
             "title": "対魔忍アサギ〜決戦アリーナ〜",
-            "thumbnailImagePath": "assets/png/works/3.png"
+            "thumbnailImagePath": "assets/jpg/works/3.jpg"
           },
           {
             "title": "ぜったい遵守☆ぱこぱこカーニバル",
-            "thumbnailImagePath": "assets/png/works/4.png"
+            "thumbnailImagePath": "assets/jpg/works/4.jpg"
           },
           {
             "title": "スクールさーばんつ",
-            "thumbnailImagePath": "assets/png/works/5.png"
+            "thumbnailImagePath": "assets/jpg/works/5.jpg"
           },
           {
             "title": "3D研究開発",
-            "thumbnailImagePath": "assets/png/works/6.png"
+            "thumbnailImagePath": "assets/jpg/works/6.jpg"
           },
           {
             "title": "開発中_サンドボックスゲーム",
-            "thumbnailImagePath": "assets/png/works/7.png"
+            "thumbnailImagePath": "assets/jpg/works/7.jpg"
           },
           {
             "title": "技術研究_ランダムマップ",
-            "thumbnailImagePath": "assets/png/works/8.png"
+            "thumbnailImagePath": "assets/jpg/works/8.jpg"
           },
           {
             "title": "ポートフォリオサイト",
-            "thumbnailImagePath": "assets/png/works/9.png"
+            "thumbnailImagePath": "assets/jpg/works/9.jpg"
           }
     ]
 }
