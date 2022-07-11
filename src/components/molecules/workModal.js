@@ -59,7 +59,15 @@ const WorkModal = ({
                     className={Styles["modal-link"]}
                   >
                     <FontAwesomeIcon
-                      icon={_.icon === "link" ? faLink : faGithub}
+                      icon={
+                        _.icon === "link" ? (
+                          faLink
+                        ) : _.icon === "gitHub" ? (
+                          faGithub
+                        ) : (
+                          <></>
+                        )
+                      }
                       className={Styles["modal-faLink"]}
                     />
                     {_.title}

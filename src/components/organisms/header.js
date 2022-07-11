@@ -9,7 +9,7 @@ const Header = (props) => {
       <div className={Styles.header}>
         <div className={Styles.title__wrap}>
           <AnchorLink href="#profile" offset="50">
-            <div className={Styles.title}>Jun Nitta Portfolio</div>
+            <div className={Styles.title}>Portfolio</div>
           </AnchorLink>
         </div>
         <div className={Styles.spNav}>
