@@ -19,7 +19,7 @@ const Footer = () => {
         </AnchorLink>
         <div className={Styles["footer-faCircleChevronUpIcon__bg"]}></div>
         <div className={Styles["footer-title"]}>
-          <div className={Styles.title}>© 2022 Jun Nitta</div>
+          <div className={Styles.title}>© 2022 N.J</div>
         </div>
       </div>
     </>
